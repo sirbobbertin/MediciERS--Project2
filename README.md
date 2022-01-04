@@ -4,10 +4,9 @@ Project 2 - Expense Reimbursement System (Team Project)
 
 Project Description
 -----
-The foundation of this project is based on my original application, Medici Expense Reimbursement System. A user-friendly application that manages the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
+The foundation of this project is based our team lead's original application, Medici Expense Reimbursement System. A user-friendly application that manages the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
-This project includes a significant enhancement of the first Medici Expense Reimbursement System that I created. The application was fully converted in the backend from Javalin Framework to Hibernate / Spring Framework and the front end features a major design overhaul to transform the overall look and feel of the application. I was assigned team lead for this project and was responsible for managing the workflow of each sprint, identifying and coordinating assignments, and maintaining the source code in our working repository. The final product includes the unit testing done by contributors mentioned below. 
-
+This project includes a significant enhancement of the first Medici Expense Reimbursement System that I created. The application was fully converted in the backend from Javalin Framework to Hibernate / Spring Framework and the front end features a major design overhaul to transform the overall look and feel of the application. As an team member, I was assigned for Jasime/Karma Testing in the frontend, and reported any bugs I've came across to the team lead including a follow-up solution. I also assisted with any code-related issues that arised from our team memebers.
 Technologies Used
 -----
 * Java (Programming Language) - version 11.0.12
@@ -22,8 +21,7 @@ Technologies Used
 * Postman (API Framework)
 * Spring
 * Hibernate
-* Jasmine
-* Karma
+* Jasmine/Karma(Testing Framework)
 
 Project Requirements
 -----
@@ -79,10 +77,11 @@ List of features ready and TODOs for future development
 To-do list:
 * Enlarge file upload (receipt image) on click for better view
 * Implement responsive design throughout on front-end
+* Merge my front-end with form validation into the main front-end without any merge conflicts
 
 Getting Started
 -----
-git clone `https://github.com/michelleyharper/mediciERS-2.0.git`
+git clone `https://github.com/sirbobbertin/MediciERS--Project2.git`
 
 Contributors
 -----
@@ -90,5 +89,5 @@ Team Lead:
 Michelle Ng
 
 Team Members: 
-Anthony Johnson (Unit Testing: Front-End),
+Anthony Johnson (Unit Testing: Front-End, Form Validation: Front-End)
 Deepthi Ramana (Unit Testing: Back-End)
