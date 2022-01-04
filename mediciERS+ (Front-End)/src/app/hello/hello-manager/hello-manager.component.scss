@@ -1,0 +1,35 @@
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Lato", sans-serif;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+.w3-bar,
+h1,
+button {
+    font-family: "Montserrat", sans-serif;
+    color: white;
+}
+
+.fa-anchor,
+.fa-coffee {
+    font-size: 200px;
+}
+
+.jumbotron {
+    /* background-color: #df2048; */
+    background-color: transparent;
+    border-style: solid;
+    border-color: #df2048;
+    text-align: center;
+}
+
+div {
+padding-top: 30px;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 30px;
+}

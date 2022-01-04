@@ -1,0 +1,40 @@
+<app-header></app-header>
+
+<div class="container mb-5">
+  <h2 style="margin-top: 30px;">Update Reimbursement</h2>
+  <div class="card mt-5">
+    <div class="card-header bg-primary text-white">Update Reimbursement</div>
+    <div class="card-body">
+      <form #myForm="ngForm" (submit)="editReimbursement()">
+        <div class="form-group">
+          <label for="rbId">Reimbursement ID:</label>
+          <input type="text" class="form-control" id="rbId" placeholder="Reimbursement ID" name="rbId"
+            [(ngModel)]="newRequest.rbId">
+        </div>
+        <div class="form-group">
+          <label for="userId">User ID:</label>
+          <input type="text" class="form-control" id="userId" placeholder="User ID" name="userId"
+            [(ngModel)]="newRequest.userId" required>
+        </div>
+        <div class="form-group">
+          <label for="rbDate">Date :</label>
+          <input type="date" class="form-control" id="rbDate" placeholder="Date" name="rbDate"
+            [(ngModel)]="newRequest.rbDate" required>
+        </div>
+        <div class="form-group">
+          <label for="rbAmount">Reimbursement Amount:</label>
+          <input type="text" class="form-control" id="rbAmount" placeholder="Enter amount" name="rbAmount"
+            [(ngModel)]="newRequest.rbAmount" required>
+        </div>
+        <!-- <div class="form-group">
+          <label for="rbImage">Receipt Image:</label>
+          <input type="text" class="form-control" id="rbImage" placeholder="Insert Image" name="rbImage"
+            [(ngModel)]="newRequest.rbImage" required>
+        </div> -->
+        <div class="card-footer bg-dark">
+          <button type="submit" class="btn btn-primary mr-5" [disabled]='!myForm.valid'>Update</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

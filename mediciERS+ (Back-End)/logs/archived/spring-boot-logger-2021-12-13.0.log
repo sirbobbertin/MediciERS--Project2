@@ -1,0 +1,315 @@
+2021-12-13 07:19:35,286 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Entered getAReimbursement() in service.
+2021-12-13 07:19:35,344 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Exited getAReimbursement() in service.
+2021-12-13 07:19:35,372 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getPendingRequests() in service.
+2021-12-13 07:19:35,380 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getPendingRequests() in service.
+2021-12-13 07:19:38,228 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-13 07:19:38,236 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-13 07:32:01,102 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-13 07:32:01,132 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-13 07:32:01,153 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-13 07:32:01,157 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-13 07:32:04,428 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-13 07:32:04,449 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-13 07:32:10,894 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Entered getAReimbursement() in service.
+2021-12-13 07:32:10,903 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Exited getAReimbursement() in service.
+2021-12-13 07:32:10,922 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-13 07:32:10,925 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-13 07:32:12,465 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-13 07:32:12,472 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-13 07:32:15,946 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-13 07:32:15,965 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-13 07:43:24,146 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-13 07:43:24,197 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-13 07:45:21,141 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-13 07:45:21,148 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-13 07:45:21,183 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-13 07:45:21,187 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-13 07:45:23,734 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-13 07:45:23,738 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-13 07:46:45,410 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Entered getAReimbursement() in service.
+2021-12-13 07:46:45,431 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Exited getAReimbursement() in service.
+2021-12-13 07:46:45,450 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-13 07:46:45,453 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-13 07:46:53,161 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-13 07:46:53,175 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-13 07:48:02,374 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Entered getAReimbursement() in service.
+2021-12-13 07:48:02,379 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Exited getAReimbursement() in service.
+2021-12-13 07:48:02,403 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getAllPendingRequests() in service.
+2021-12-13 07:48:02,410 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getAllPendingRequests() in service.
+2021-12-13 07:48:03,969 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getAllPendingRequests() in service.
+2021-12-13 07:48:03,976 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getAllPendingRequests() in service.
+2021-12-13 07:48:11,653 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-13 07:48:11,666 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-13 07:48:11,686 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-13 07:48:11,691 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-13 07:48:17,556 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-13 07:48:17,575 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-13 07:49:06,146 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-13 07:49:06,150 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-13 07:49:06,177 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-13 07:49:06,190 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-13 07:49:07,521 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-13 07:49:07,529 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-13 07:49:35,063 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Entered getAReimbursement() in service.
+2021-12-13 07:49:35,070 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Exited getAReimbursement() in service.
+2021-12-13 07:49:35,097 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-13 07:49:35,105 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-13 07:49:36,517 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getPendingRequests() in service.
+2021-12-13 07:49:36,533 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getPendingRequests() in service.
+2021-12-13 07:49:46,341 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-13 07:49:46,353 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-13 07:49:54,056 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-13 07:49:54,061 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-13 08:34:53,157 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-13 08:34:53,170 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-12-13 08:34:53,180 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-12-13 08:43:54,714 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MBP.lan with PID 8682 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-13 08:43:54,717 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-13 08:43:54,718 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-13 08:43:54,878 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-13 08:43:54,880 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-13 08:43:56,686 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-13 08:43:56,800 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 99 ms. Found 3 JPA repository interfaces.
+2021-12-13 08:43:58,083 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-13 08:43:58,100 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-13 08:43:58,101 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-13 08:43:58,101 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-13 08:43:58,219 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-13 08:43:58,220 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3338 ms
+2021-12-13 08:43:58,699 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-13 08:43:58,745 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-13 08:43:58,864 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-13 08:43:58,979 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-13 08:43:59,192 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-13 08:43:59,205 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-13 08:44:00,067 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-13 08:44:00,083 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-13 08:44:00,847 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-13 08:44:01,396 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-13 08:44:01,404 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-13 08:44:01,448 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-13 08:44:01,471 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-13 08:44:01,489 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 7.298 seconds (JVM running for 8.38)
+2021-12-13 08:44:03,964 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-13 08:44:03,967 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-13 08:44:03,969 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2021-12-13 08:44:04,264 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-13 08:44:04,264 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-4] Entered getAReimbursement() in service.
+2021-12-13 08:44:04,407 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-13 08:44:04,407 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-4] Exited getAReimbursement() in service.
+2021-12-13 08:44:04,471 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-13 08:44:04,490 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-13 08:44:07,108 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-13 08:44:07,128 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-13 09:09:33,206 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-13 09:09:33,221 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-12-13 09:09:33,235 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-12-13 10:21:49,959 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MBP.lan with PID 9527 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-13 10:21:49,957 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-13 10:21:49,963 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-13 10:21:50,126 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-13 10:21:50,128 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-13 10:21:51,944 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-13 10:21:52,067 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 103 ms. Found 3 JPA repository interfaces.
+2021-12-13 10:21:53,369 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-13 10:21:53,389 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-13 10:21:53,390 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-13 10:21:53,390 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-13 10:21:53,481 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-13 10:21:53,482 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3352 ms
+2021-12-13 10:21:53,938 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-13 10:21:53,982 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-13 10:21:54,144 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-13 10:21:54,243 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-13 10:21:54,461 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-13 10:21:54,476 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-13 10:21:55,462 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-13 10:21:55,479 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-13 10:21:56,349 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-13 10:21:56,914 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-13 10:21:56,920 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-13 10:21:56,963 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-13 10:21:56,983 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-13 10:21:57,006 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 7.512 seconds (JVM running for 8.477)
+2021-12-13 10:22:00,713 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-13 10:22:00,714 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-13 10:22:00,723 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 9 ms
+2021-12-13 10:22:00,885 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-13 10:22:01,010 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-13 10:22:01,080 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getAllPendingRequests() in service.
+2021-12-13 10:22:01,096 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getAllPendingRequests() in service.
+2021-12-13 10:22:05,874 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getAllPendingRequests() in service.
+2021-12-13 10:22:05,885 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getAllPendingRequests() in service.
+2021-12-13 10:22:10,047 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getSpecificRequests() in service.
+2021-12-13 10:22:10,075 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getSpecificRequests() in service.
+2021-12-13 10:22:11,691 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-13 10:22:11,717 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-13 10:22:13,625 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getAllResolvedRequests() in service.
+2021-12-13 10:22:13,644 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getAllResolvedRequests() in service.
+2021-12-13 10:22:21,862 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Entered getAReimbursement() in service.
+2021-12-13 10:22:21,868 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Exited getAReimbursement() in service.
+2021-12-13 10:22:21,900 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getPendingRequests() in service.
+2021-12-13 10:22:21,907 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getPendingRequests() in service.
+2021-12-13 10:22:32,351 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-13 10:22:32,364 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-13 11:59:22,035 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-13 11:59:22,050 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-12-13 11:59:22,062 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-12-13 12:40:26,879 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-13 12:40:26,883 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MBP.lan with PID 4206 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-13 12:40:26,885 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-13 12:40:27,044 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-13 12:40:27,046 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-13 12:40:28,902 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-13 12:40:29,024 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 109 ms. Found 3 JPA repository interfaces.
+2021-12-13 12:40:30,353 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-13 12:40:30,370 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-13 12:40:30,371 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-13 12:40:30,372 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-13 12:40:30,481 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-13 12:40:30,483 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3435 ms
+2021-12-13 12:40:30,960 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-13 12:40:31,002 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-13 12:40:31,136 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-13 12:40:31,229 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-13 12:40:31,461 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-13 12:40:31,477 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-13 12:40:32,582 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-13 12:40:32,595 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-13 12:40:33,470 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-13 12:40:34,056 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-13 12:40:34,068 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-13 12:40:34,114 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-13 12:40:34,133 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-13 12:40:34,158 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 7.844 seconds (JVM running for 8.953)
+2021-12-13 12:40:51,874 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-13 12:40:51,877 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-13 12:40:51,881 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 4 ms
+2021-12-13 12:40:52,069 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-13 12:40:52,229 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-13 12:40:52,297 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getAllPendingRequests() in service.
+2021-12-13 12:40:52,307 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getAllPendingRequests() in service.
+2021-12-13 12:41:07,933 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-4] Entered getAReimbursement() in service.
+2021-12-13 12:41:07,939 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-4] Exited getAReimbursement() in service.
+2021-12-13 12:41:07,959 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-13 12:41:07,980 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-13 12:41:10,665 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-13 12:41:10,676 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-13 12:46:18,564 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-13 12:46:18,570 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-13 12:46:18,594 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-13 12:46:18,598 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-13 12:46:20,433 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-13 12:46:20,442 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-13 12:49:41,003 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getResolvedRequests() in service.
+2021-12-13 12:49:41,020 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getResolvedRequests() in service.
+2021-12-13 12:52:56,606 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-13 12:52:56,611 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-13 12:52:56,636 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-13 12:52:56,640 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-13 12:52:58,422 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getResolvedRequests() in service.
+2021-12-13 12:52:58,427 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getResolvedRequests() in service.
+2021-12-13 12:53:11,962 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-13 12:53:11,969 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-13 12:53:11,998 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-13 12:53:12,011 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-13 12:53:14,858 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getResolvedRequests() in service.
+2021-12-13 12:53:14,864 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getResolvedRequests() in service.
+2021-12-13 12:54:06,819 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Entered getAReimbursement() in service.
+2021-12-13 12:54:06,830 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Exited getAReimbursement() in service.
+2021-12-13 12:54:06,856 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-13 12:54:06,862 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-13 12:54:08,309 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-13 12:54:08,326 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-13 13:16:42,374 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Entered getAReimbursement() in service.
+2021-12-13 13:16:42,392 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Exited getAReimbursement() in service.
+2021-12-13 13:16:42,414 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-13 13:16:42,422 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-13 13:16:44,320 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-13 13:16:44,334 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-13 13:25:02,531 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-13 13:25:02,547 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-13 13:25:02,573 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-13 13:25:02,576 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-13 13:25:04,001 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-13 13:25:04,014 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-13 13:25:06,621 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-13 13:25:06,625 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-13 13:35:55,138 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-13 13:35:55,148 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-13 13:35:55,168 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-13 13:35:55,174 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-13 13:35:56,918 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-13 13:35:56,929 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-13 13:43:10,916 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-13 13:43:10,931 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-13 13:43:10,960 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-13 13:43:10,968 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-13 13:43:12,324 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-13 13:43:12,328 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-13 13:49:54,641 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Entered getAReimbursement() in service.
+2021-12-13 13:49:54,653 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Exited getAReimbursement() in service.
+2021-12-13 13:49:54,670 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-13 13:49:54,677 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-13 13:51:01,134 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Entered getAReimbursement() in service.
+2021-12-13 13:51:01,141 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Exited getAReimbursement() in service.
+2021-12-13 13:51:01,163 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-13 13:51:01,167 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-13 13:52:29,009 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-13 13:52:29,024 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-13 13:52:29,046 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-13 13:52:29,054 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-13 13:52:37,973 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Entered getAReimbursement() in service.
+2021-12-13 13:52:37,981 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Exited getAReimbursement() in service.
+2021-12-13 13:52:38,004 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-13 13:52:38,011 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-13 13:52:39,810 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-13 13:52:39,818 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-13 14:50:57,620 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s331ms).
+2021-12-13 14:54:09,298 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m11s683ms).
+2021-12-13 15:00:17,985 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m38s664ms).
+2021-12-13 15:01:08,398 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50s413ms).
+2021-12-13 15:06:52,073 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m10s862ms).
+2021-12-13 16:08:09,937 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s978ms).
+2021-12-13 16:25:51,169 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m11s205ms).
+2021-12-13 16:45:14,466 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m53s243ms).
+2021-12-13 20:17:46,392 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m59s73ms).
+2021-12-13 20:22:30,085 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m13s667ms).
+2021-12-13 21:45:50,238 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m49s94ms).
+2021-12-13 21:48:35,282 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-13 21:48:35,312 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-13 22:09:24,192 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered deleteRequest() in service.
+2021-12-13 22:09:24,300 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited deleteRequest() in service.
+2021-12-13 22:09:24,328 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-13 22:09:24,335 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-13 22:09:24,861 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered deleteRequest() in service.
+2021-12-13 22:09:24,874 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited deleteRequest() in service.
+2021-12-13 22:09:24,892 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-13 22:09:24,897 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-13 22:09:25,647 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered deleteRequest() in service.
+2021-12-13 22:09:25,658 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited deleteRequest() in service.
+2021-12-13 22:09:25,671 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-13 22:09:25,675 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-13 22:09:26,668 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered deleteRequest() in service.
+2021-12-13 22:09:26,674 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited deleteRequest() in service.
+2021-12-13 22:09:26,687 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-13 22:09:26,692 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-13 22:09:59,662 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered deleteRequest() in service.
+2021-12-13 22:09:59,689 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited deleteRequest() in service.
+2021-12-13 22:09:59,702 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-13 22:09:59,706 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-13 22:10:06,792 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-13 22:10:06,797 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-13 22:10:06,814 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-13 22:10:06,818 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-13 22:10:08,832 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-13 22:10:08,841 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-13 22:10:57,085 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered submitRequest() in service.
+2021-12-13 22:10:57,119 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited submitRequest() in service.
+2021-12-13 22:10:57,134 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-13 22:10:57,137 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-13 22:11:03,507 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-13 22:11:03,510 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-13 22:11:05,107 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-13 22:11:05,114 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-13 23:26:42,674 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m50s600ms).

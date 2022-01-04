@@ -1,0 +1,71 @@
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+
+  <!-- Brand -->
+  <a class="navbar-brand" href="#">MEDICI•</a>
+
+  <!-- LOGIN -->
+  <ul class="navbar-nav">
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'employee'">
+      <a class="nav-link" routerLink="/hello-employee">Home</a>
+      <i class="tim-icons icon-world"></i>
+    </li>
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'manager'">
+      <a class="nav-link" routerLink="/hello-manager">Home</a>
+      <i class="tim-icons icon-world"></i>
+    </li>
+    <li class="nav-item dropdown" *ngIf="!isLoggedIn()">
+      <a class="nav-link" routerLink="/login">Login</a>
+    </li>
+
+    <!-- EMPLOYEE NEW -->
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'employee'">
+      <a class="nav-link" routerLink="/upload-file">Manage Reimbursements</a>
+      <i class="tim-icons icon-tap-02"></i>
+    </li>
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'employee'">
+      <a class="nav-link" routerLink="/reimbursement-resolved-emp">View Resolved</a>
+      <i class="tim-icons icon-zoom-split"></i>
+    </li>
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'employee'">
+      <a class="nav-link" routerLink="/user-edit">Account</a>
+      <i class="tim-icons icon-single-02"></i>
+    </li>
+
+    <!-- MANAGER NEW -->
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'manager'">
+      <a class="nav-link" routerLink="/reimbursement-pending">Manage Requests</a>
+      <i class="tim-icons icon-tap-02"></i>
+    </li>
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'manager'">
+      <a class="nav-link" routerLink="/reimbursement-employee">View Requests</a>
+      <i class="tim-icons icon-zoom-split"></i>
+    </li>
+    <!-- <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'manager'">
+      <a class="nav-link" routerLink="/reimbursement-edit">Update Reimbursement</a>
+    </li> -->
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'manager'">
+      <a class="nav-link" routerLink="/reimbursement-resolved">View Resolved</a>
+      <i class="tim-icons icon-zoom-split"></i>
+    </li>
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'manager'">
+      <a class="nav-link" routerLink="/manager">Manage Employees</a>
+      <i class="tim-icons icon-badge"></i>
+    </li>
+    <li class="nav-item dropdown" *ngIf="isLoggedIn() && retrieveUserType() == 'manager'">
+      <a class="nav-link" routerLink="/user-edit">Account</a>
+      <i class="tim-icons icon-single-02"></i>
+    </li>
+
+    <!-- LOGOUT -->
+    <li class="nav-item dropdown" *ngIf="isLoggedIn()">
+      <a class="nav-link" routerLink="/logout">Logout</a>
+      <i class="tim-icons icon-button-power"></i>
+    </li>
+  </ul>
+
+
+</nav>
+
+
+
+

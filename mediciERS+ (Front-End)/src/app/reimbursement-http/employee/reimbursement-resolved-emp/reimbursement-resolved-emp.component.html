@@ -1,0 +1,26 @@
+<app-header></app-header>
+
+<div class="container">
+    <h2>Resolved Reimbursements</h2>
+    <div></div>
+    <table class="table table-striped table-condensed">
+        <thead class="thead-dark">
+        <tr>
+          <th>Reimbursement ID</th>
+          <th>User ID</th>
+          <th>Date</th>
+          <th>Amount</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let reimbursement of ResolvedRequests">
+          <td>{{ reimbursement.rbId }}</td>
+          <td>{{ reimbursement.userId}}</td>
+          <td>{{ reimbursement.rbDate }}</td>
+          <td>{{ reimbursement.rbAmount }}</td>
+          <td>{{ reimbursement.rbStatus | uppercase }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

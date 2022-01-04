@@ -1,0 +1,45 @@
+<app-header></app-header>
+
+<div class="container mb-5">
+    <h2 style="margin-top: 30px;">Account Information</h2>
+    <div class="card mt-5">
+      <div class="card-header bg-danger text-white">USER ID: {{ updateUser.userId }}</div>
+      <div class="card-body">
+        <form #myForm="ngForm" (submit)="editUser()">
+          <div class="form-group">
+            <label for="userPassword">Password:</label>
+            <input type="text" class="form-control" id="userPassword" placeholder="Password" name="userPassword"
+              [(ngModel)]="updateUser.userPassword">
+          </div>
+          <div class="form-group">
+            <label for="userFirstName">First Name:</label>
+            <input type="text" class="form-control" id="userFirstName" placeholder="First Name" name="userFirstName"
+              [(ngModel)]="updateUser.userFirstName">
+          </div>
+          <div class="form-group">
+            <label for="userLastName">Last Name :</label>
+            <input type="text" class="form-control" id="userLastName" placeholder="Last Name" name="userLastName"
+              [(ngModel)]="updateUser.userLastName" required>
+          </div>
+          <div class="form-group">
+            <label for="userAddress">Address:</label>
+            <input type="text" class="form-control" id="userAddress" placeholder="Address" name="userAddress"
+              [(ngModel)]="updateUser.userAddress" required>
+          </div>
+          <div class="form-group">
+            <label for="userContact">Contact:</label>
+            <input type="text" class="form-control" id="userContact" placeholder="Contact" name="userContact"
+              [(ngModel)]="updateUser.userContact" required>
+          </div>
+          <div class="form-group">
+            <label for="userType">Title:</label>
+            <input type="text" class="form-control" id="userType" placeholder="Type" name="userType"
+              [(ngModel)]="updateUser.userType" readonly>
+          </div>
+          <div class="card-footer bg-danger">
+            <button type="submit" class="btn btn-default mr-5" [disabled]='!myForm.valid'>Update</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>

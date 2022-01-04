@@ -1,0 +1,375 @@
+2021-12-14 01:12:57,912 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m14s522ms).
+2021-12-14 01:16:47,658 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m49s745ms).
+2021-12-14 03:54:50,744 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m1s545ms).
+2021-12-14 04:11:54,404 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m33s633ms).
+2021-12-14 04:28:01,468 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m37s60ms).
+2021-12-14 04:44:07,370 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m35s889ms).
+2021-12-14 05:01:57,426 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m20s43ms).
+2021-12-14 05:20:19,305 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m51s849ms).
+2021-12-14 05:37:09,404 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m50s78ms).
+2021-12-14 05:55:04,964 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m55s537ms).
+2021-12-14 06:02:23,512 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m18s549ms).
+2021-12-14 06:20:19,001 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m25s474ms).
+2021-12-14 07:01:19,502 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s861ms), soft-evicting connections from pool.
+2021-12-14 14:02:39,898 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-14 14:02:40,016 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-14 14:02:41,028 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-14 14:02:41,033 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-14 14:12:37,971 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-14 14:12:37,978 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-14 14:13:03,232 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Entered getAReimbursement() in service.
+2021-12-14 14:13:03,236 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Exited getAReimbursement() in service.
+2021-12-14 14:13:03,261 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-14 14:13:03,264 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-14 14:13:04,807 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getPendingRequests() in service.
+2021-12-14 14:13:04,812 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getPendingRequests() in service.
+2021-12-14 14:24:27,241 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-5] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-14 14:24:27,249 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2021-12-14 14:24:27,259 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2021-12-14 14:24:27,960 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MacBook-Pro.local with PID 4206 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-14 14:24:27,967 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-14 14:24:28,859 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-14 14:24:28,911 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 47 ms. Found 3 JPA repository interfaces.
+2021-12-14 14:24:29,210 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-14 14:24:29,214 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-14 14:24:29,215 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-14 14:24:29,215 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-14 14:24:29,240 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-14 14:24:29,242 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1241 ms
+2021-12-14 14:24:29,405 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-14 14:24:29,417 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2021-12-14 14:24:29,517 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2021-12-14 14:24:29,522 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-14 14:24:29,868 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-14 14:24:29,869 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-14 14:24:30,129 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-14 14:24:30,372 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-14 14:24:30,376 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-14 14:24:30,413 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-14 14:24:30,420 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-14 14:24:30,436 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 2.941 seconds (JVM running for 79557.913)
+2021-12-14 14:24:30,456 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-12-14 14:24:59,124 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-7] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-14 14:24:59,125 INFO com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown initiated...
+2021-12-14 14:24:59,129 INFO com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown completed.
+2021-12-14 14:24:59,443 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MacBook-Pro.local with PID 4206 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-14 14:24:59,448 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-14 14:24:59,932 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-14 14:24:59,961 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 27 ms. Found 3 JPA repository interfaces.
+2021-12-14 14:25:00,196 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-14 14:25:00,198 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-14 14:25:00,198 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-14 14:25:00,198 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-14 14:25:00,214 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-14 14:25:00,214 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 751 ms
+2021-12-14 14:25:00,288 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-14 14:25:00,296 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Starting...
+2021-12-14 14:25:00,359 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Start completed.
+2021-12-14 14:25:00,360 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-14 14:25:00,560 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-14 14:25:00,562 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-14 14:25:00,866 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-14 14:25:01,056 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-14 14:25:01,060 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-14 14:25:01,083 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-14 14:25:01,086 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-14 14:25:01,095 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 1.818 seconds (JVM running for 79588.572)
+2021-12-14 14:25:01,101 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-12-14 14:25:45,002 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-11] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-14 14:25:45,003 INFO com.zaxxer.hikari.HikariDataSource [Thread-11] HikariPool-3 - Shutdown initiated...
+2021-12-14 14:25:45,008 INFO com.zaxxer.hikari.HikariDataSource [Thread-11] HikariPool-3 - Shutdown completed.
+2021-12-14 14:25:45,425 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MacBook-Pro.local with PID 4206 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-14 14:25:45,431 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-14 14:25:45,859 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-14 14:25:45,918 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 56 ms. Found 3 JPA repository interfaces.
+2021-12-14 14:25:46,119 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-14 14:25:46,121 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-14 14:25:46,122 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-14 14:25:46,122 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-14 14:25:46,138 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-14 14:25:46,138 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 681 ms
+2021-12-14 14:25:46,211 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-14 14:25:46,218 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Starting...
+2021-12-14 14:25:46,290 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Start completed.
+2021-12-14 14:25:46,292 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-14 14:25:46,558 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-14 14:25:46,559 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-14 14:25:46,816 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-14 14:25:46,956 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-14 14:25:46,959 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-14 14:25:46,969 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-14 14:25:46,971 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-14 14:25:46,978 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 1.814 seconds (JVM running for 79634.455)
+2021-12-14 14:25:46,984 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-12-14 14:40:23,324 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-14 14:40:23,328 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-14 14:40:23,337 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 9 ms
+2021-12-14 14:40:23,439 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Entered getAReimbursement() in service.
+2021-12-14 14:40:23,491 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Exited getAReimbursement() in service.
+2021-12-14 14:40:23,538 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-14 14:40:23,566 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-14 14:40:25,145 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-14 14:40:25,153 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-14 14:41:00,228 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Entered getAReimbursement() in service.
+2021-12-14 14:41:00,235 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Exited getAReimbursement() in service.
+2021-12-14 14:41:00,258 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-14 14:41:00,262 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-14 14:41:01,717 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-14 14:41:01,724 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-14 14:45:44,482 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Entered getAReimbursement() in service.
+2021-12-14 14:45:44,499 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Exited getAReimbursement() in service.
+2021-12-14 14:45:44,526 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-14 14:45:44,531 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-14 14:45:46,832 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-14 14:45:46,840 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-14 14:48:58,902 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-14 14:48:58,906 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-14 14:48:58,937 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-14 14:48:58,980 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-14 14:49:00,048 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-14 14:49:00,057 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-14 14:49:02,959 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getPendingRequests() in service.
+2021-12-14 14:49:02,977 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getPendingRequests() in service.
+2021-12-14 14:49:20,175 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered submitRequest() in service.
+2021-12-14 14:49:20,213 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited submitRequest() in service.
+2021-12-14 14:49:20,235 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-14 14:49:20,238 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-14 14:50:51,400 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Entered getAReimbursement() in service.
+2021-12-14 14:50:51,418 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Exited getAReimbursement() in service.
+2021-12-14 14:50:51,444 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-14 14:50:51,452 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-14 14:50:52,936 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-14 14:50:52,957 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-14 15:00:57,329 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Entered getAReimbursement() in service.
+2021-12-14 15:00:57,362 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-7] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0] with root cause
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.project2.mediciERS.service.UserServiceImpl.validateUser(UserServiceImpl.java:49)
+	at com.project2.mediciERS.controller.Controller.validateUser(Controller.java:141)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-12-14 15:00:57,666 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Entered getAReimbursement() in service.
+2021-12-14 15:00:57,671 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-9] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0] with root cause
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.project2.mediciERS.service.UserServiceImpl.validateUser(UserServiceImpl.java:49)
+	at com.project2.mediciERS.controller.Controller.validateUser(Controller.java:141)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-12-14 15:01:01,320 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Entered getAReimbursement() in service.
+2021-12-14 15:01:01,332 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Exited getAReimbursement() in service.
+2021-12-14 15:01:01,358 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-14 15:01:01,363 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-14 15:01:03,307 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-14 15:01:03,318 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-14 15:01:18,349 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-14 15:01:18,362 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-14 15:01:18,386 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-14 15:01:18,395 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-14 15:01:20,853 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getPendingRequests() in service.
+2021-12-14 15:01:20,868 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getPendingRequests() in service.
+2021-12-14 15:06:02,647 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Entered getAReimbursement() in service.
+2021-12-14 15:06:02,661 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Exited getAReimbursement() in service.
+2021-12-14 15:06:02,687 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-14 15:06:02,690 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-14 15:06:04,333 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-14 15:06:04,340 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-14 15:07:28,395 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-14 15:07:28,415 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-14 15:08:55,398 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-14 15:08:55,417 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-14 15:08:55,447 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-14 15:08:55,462 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-14 15:08:57,509 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-14 15:08:57,530 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-14 15:09:35,005 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-14 15:09:35,010 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-14 15:09:35,029 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-14 15:09:35,032 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-14 15:09:37,083 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-14 15:09:37,089 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-14 15:10:07,320 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered submitRequest() in service.
+2021-12-14 15:10:07,337 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited submitRequest() in service.
+2021-12-14 15:10:07,353 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-14 15:10:07,368 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-14 15:15:13,504 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Entered getAReimbursement() in service.
+2021-12-14 15:15:13,529 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Exited getAReimbursement() in service.
+2021-12-14 15:15:13,554 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-14 15:15:13,565 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-14 15:15:15,202 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-14 15:15:15,207 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-14 15:16:16,402 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Entered getAReimbursement() in service.
+2021-12-14 15:16:16,410 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Exited getAReimbursement() in service.
+2021-12-14 15:16:16,434 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-14 15:16:16,442 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-14 15:16:18,765 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-14 15:16:18,782 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-14 15:17:00,952 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Entered getAReimbursement() in service.
+2021-12-14 15:17:00,959 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Exited getAReimbursement() in service.
+2021-12-14 15:17:00,985 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-14 15:17:00,989 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-14 15:17:02,447 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-14 15:17:02,471 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-14 15:18:34,012 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Entered getAReimbursement() in service.
+2021-12-14 15:18:34,018 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Exited getAReimbursement() in service.
+2021-12-14 15:18:34,051 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-14 15:18:34,082 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-14 15:18:35,557 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-14 15:18:35,564 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-14 15:18:38,414 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-14 15:18:38,436 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-14 15:18:59,470 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-14 15:18:59,479 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-14 15:19:05,581 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-14 15:19:05,592 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-14 15:19:19,329 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-14 15:19:19,347 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-14 15:19:28,075 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-14 15:19:28,089 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-14 15:19:46,885 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-14 15:19:46,895 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-14 15:24:09,675 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-14 15:24:09,712 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-14 15:24:09,740 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-14 15:24:09,745 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-14 15:24:11,085 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-14 15:24:11,088 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-14 16:54:45,429 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=5m27s778ms).
+2021-12-14 17:00:43,539 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=5m28s84ms).
+2021-12-14 17:17:10,652 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=16m27s115ms).
+2021-12-14 17:33:41,766 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=16m1s100ms).
+2021-12-14 17:50:01,378 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=16m19s600ms).
+2021-12-14 18:34:51,263 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=3m49s72ms).
+2021-12-14 18:39:36,629 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=4m15s346ms).
+2021-12-14 18:44:50,412 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=5m13s782ms).
+2021-12-14 18:49:09,925 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=3m49s520ms).
+2021-12-14 19:25:15,183 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=3m3s673ms).
+2021-12-14 19:27:48,397 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=2m33s216ms).
+2021-12-14 19:29:48,500 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=1m30s83ms).
+2021-12-14 19:30:49,600 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=1m1s100ms).
+2021-12-14 19:48:00,841 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=15m30s863ms).
+2021-12-14 19:50:09,158 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=1m38s309ms).
+2021-12-14 20:00:22,462 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=8m13s279ms).
+2021-12-14 20:01:44,499 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=1m22s36ms).
+2021-12-14 20:17:57,170 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=15m42s651ms).
+2021-12-14 20:34:15,330 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=15m48s161ms).
+2021-12-14 20:47:27,876 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=12m42s539ms).
+2021-12-14 20:55:43,731 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=8m15s855ms).
+2021-12-14 20:57:35,420 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=51s659ms).
+2021-12-14 22:13:05,050 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=15m28s740ms).
+2021-12-14 22:15:36,001 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=1m917ms).
+2021-12-14 22:17:54,677 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=1m48s668ms).
+2021-12-14 22:34:25,635 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=16m952ms).
+2021-12-14 23:50:38,127 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-4 housekeeper] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=16m11s604ms).

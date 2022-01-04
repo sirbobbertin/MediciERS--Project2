@@ -1,0 +1,858 @@
+2021-12-11 00:16:25,180 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=49s410ms).
+2021-12-11 00:19:34,477 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m9s298ms).
+2021-12-11 00:21:53,855 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m49s361ms).
+2021-12-11 00:23:12,206 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m18s350ms).
+2021-12-11 01:29:59,246 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=4m16s252ms).
+2021-12-11 09:07:20,162 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=45s53ms).
+2021-12-11 09:09:34,423 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m7s156ms).
+2021-12-11 09:14:16,412 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m37s636ms).
+2021-12-11 09:15:20,350 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m3s945ms).
+2021-12-11 09:18:34,892 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m44s526ms).
+2021-12-11 09:22:25,497 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m35s189ms).
+2021-12-11 09:26:00,292 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m50s44ms).
+2021-12-11 09:28:36,002 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m5s694ms).
+2021-12-11 09:29:39,461 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m3s458ms).
+2021-12-11 09:33:09,398 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m56s256ms).
+2021-12-11 09:37:39,163 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m26s876ms).
+2021-12-11 09:41:04,009 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m24s846ms).
+2021-12-11 09:42:58,830 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m24s808ms).
+2021-12-11 09:48:08,583 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m49s906ms).
+2021-12-11 09:52:51,642 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=4m43s59ms).
+2021-12-11 09:54:08,460 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=46s806ms).
+2021-12-11 09:55:43,302 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m34s841ms).
+2021-12-11 09:57:13,648 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m336ms).
+2021-12-11 10:00:12,143 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m57s495ms).
+2021-12-11 10:02:02,677 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=49s445ms).
+2021-12-11 10:03:57,178 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=52s40ms).
+2021-12-11 10:06:44,293 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m17s108ms).
+2021-12-11 10:12:12,321 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-8 housekeeper] HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=5m28s28ms).
+2021-12-11 10:16:50,272 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-11 10:16:50,279 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-8 - Shutdown initiated...
+2021-12-11 10:16:50,285 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-8 - Shutdown completed.
+2021-12-11 10:50:09,665 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-11 10:50:09,672 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MBP.lan with PID 13545 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-11 10:50:09,673 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-11 10:50:09,814 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-11 10:50:09,816 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-11 10:50:11,452 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-11 10:50:11,561 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 94 ms. Found 3 JPA repository interfaces.
+2021-12-11 10:50:12,711 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-11 10:50:12,728 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-11 10:50:12,729 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-11 10:50:12,729 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-11 10:50:12,821 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-11 10:50:12,822 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3003 ms
+2021-12-11 10:50:13,226 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-11 10:50:13,270 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-11 10:50:13,399 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-11 10:50:13,477 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-11 10:50:13,730 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-11 10:50:13,750 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-11 10:50:14,512 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-11 10:50:14,519 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-11 10:50:15,574 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-11 10:50:16,098 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-11 10:50:16,104 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-11 10:50:16,154 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-11 10:50:16,173 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-11 10:50:16,200 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 7.069 seconds (JVM running for 8.144)
+2021-12-11 10:50:23,643 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-11 10:50:23,643 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-11 10:50:23,646 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 3 ms
+2021-12-11 10:50:23,834 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-11 10:50:23,979 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-11 10:50:24,074 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getAllPendingRequests() in service.
+2021-12-11 10:50:24,089 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getAllPendingRequests() in service.
+2021-12-11 10:50:37,655 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getAllPendingRequests() in service.
+2021-12-11 10:50:37,672 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getAllPendingRequests() in service.
+2021-12-11 10:50:45,159 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-11 10:50:45,167 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-11 10:50:45,188 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-11 10:50:45,219 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-11 10:50:46,709 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-11 10:50:46,714 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-11 11:00:57,717 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-11 11:00:57,728 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-12-11 11:00:57,736 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-12-11 12:08:42,397 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-11 12:08:42,402 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MBP.lan with PID 4272 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-11 12:08:42,404 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-11 12:08:42,573 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-11 12:08:42,575 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-11 12:08:44,320 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-11 12:08:44,424 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 91 ms. Found 3 JPA repository interfaces.
+2021-12-11 12:08:45,604 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-11 12:08:45,625 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-11 12:08:45,626 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-11 12:08:45,626 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-11 12:08:45,726 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-11 12:08:45,727 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3149 ms
+2021-12-11 12:08:46,112 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-11 12:08:46,160 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-11 12:08:46,317 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-11 12:08:46,406 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-11 12:08:46,613 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-11 12:08:46,629 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-11 12:08:47,450 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-11 12:08:47,498 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-11 12:08:48,192 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-11 12:08:48,744 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-11 12:08:48,750 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-11 12:08:48,791 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-11 12:08:48,812 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-11 12:08:48,836 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 7.031 seconds (JVM running for 8.096)
+2021-12-11 12:09:48,893 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-11 12:09:48,894 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-11 12:09:48,900 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2021-12-11 12:09:49,116 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-11 12:09:49,308 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-11 12:09:49,375 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getAllPendingRequests() in service.
+2021-12-11 12:09:49,394 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getAllPendingRequests() in service.
+2021-12-11 12:09:52,343 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getAllPendingRequests() in service.
+2021-12-11 12:09:52,352 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getAllPendingRequests() in service.
+2021-12-11 12:10:02,380 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered denyRequest() in service.
+2021-12-11 12:10:02,479 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited denyRequest() in service.
+2021-12-11 12:10:02,493 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getAllPendingRequests() in service.
+2021-12-11 12:10:02,497 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getAllPendingRequests() in service.
+2021-12-11 12:10:18,354 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getAllResolvedRequests() in service.
+2021-12-11 12:10:18,382 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getAllResolvedRequests() in service.
+2021-12-11 12:10:22,105 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered deleteRequest() in service.
+2021-12-11 12:10:22,136 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-8080-exec-10] SQL Error: 0, SQLState: 23503
+2021-12-11 12:10:22,137 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-8080-exec-10] ERROR: update or delete on table "reimbursement_details" violates foreign key constraint "file_details_rb_id_fkey" on table "file_details"
+  Detail: Key (rb_id)=(56) is still referenced from table "file_details".
+2021-12-11 12:10:22,142 INFO org.hibernate.engine.jdbc.batch.internal.AbstractBatchImpl [http-nio-8080-exec-10] HHH000010: On release of batch it still contained JDBC statements
+2021-12-11 12:10:22,160 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-10] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [file_details_rb_id_fkey]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement] with root cause
+org.postgresql.util.PSQLException: ERROR: update or delete on table "reimbursement_details" violates foreign key constraint "file_details_rb_id_fkey" on table "file_details"
+  Detail: Key (rb_id)=(56) is still referenced from table "file_details".
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2674)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2364)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:354)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:484)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:404)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:162)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:130)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:197)
+	at org.hibernate.engine.jdbc.batch.internal.NonBatchingBatch.addToBatch(NonBatchingBatch.java:46)
+	at org.hibernate.persister.entity.AbstractEntityPersister.delete(AbstractEntityPersister.java:3698)
+	at org.hibernate.persister.entity.AbstractEntityPersister.delete(AbstractEntityPersister.java:3958)
+	at org.hibernate.action.internal.EntityDeleteAction.execute(EntityDeleteAction.java:123)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604)
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:723)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1416)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:507)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3299)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2434)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101)
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at jdk.proxy3/jdk.proxy3.$Proxy127.deleteById(Unknown Source)
+	at com.project2.mediciERS.service.ReimbursementServiceImpl.deleteRequest(ReimbursementServiceImpl.java:148)
+	at com.project2.mediciERS.controller.Controller.deleteRequest(Controller.java:90)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doDelete(FrameworkServlet.java:931)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-12-11 12:11:01,423 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered deleteRequest() in service.
+2021-12-11 12:11:01,432 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-8080-exec-1] SQL Error: 0, SQLState: 23503
+2021-12-11 12:11:01,432 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-8080-exec-1] ERROR: update or delete on table "reimbursement_details" violates foreign key constraint "file_details_rb_id_fkey" on table "file_details"
+  Detail: Key (rb_id)=(56) is still referenced from table "file_details".
+2021-12-11 12:11:01,433 INFO org.hibernate.engine.jdbc.batch.internal.AbstractBatchImpl [http-nio-8080-exec-1] HHH000010: On release of batch it still contained JDBC statements
+2021-12-11 12:11:01,435 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [file_details_rb_id_fkey]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement] with root cause
+org.postgresql.util.PSQLException: ERROR: update or delete on table "reimbursement_details" violates foreign key constraint "file_details_rb_id_fkey" on table "file_details"
+  Detail: Key (rb_id)=(56) is still referenced from table "file_details".
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2674)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2364)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:354)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:484)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:404)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:162)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:130)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:197)
+	at org.hibernate.engine.jdbc.batch.internal.NonBatchingBatch.addToBatch(NonBatchingBatch.java:46)
+	at org.hibernate.persister.entity.AbstractEntityPersister.delete(AbstractEntityPersister.java:3698)
+	at org.hibernate.persister.entity.AbstractEntityPersister.delete(AbstractEntityPersister.java:3958)
+	at org.hibernate.action.internal.EntityDeleteAction.execute(EntityDeleteAction.java:123)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604)
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:723)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1416)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:507)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3299)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2434)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101)
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at jdk.proxy3/jdk.proxy3.$Proxy127.deleteById(Unknown Source)
+	at com.project2.mediciERS.service.ReimbursementServiceImpl.deleteRequest(ReimbursementServiceImpl.java:148)
+	at com.project2.mediciERS.controller.Controller.deleteRequest(Controller.java:90)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doDelete(FrameworkServlet.java:931)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-12-11 12:17:05,757 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getAllPendingRequests() in service.
+2021-12-11 12:17:05,763 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getAllPendingRequests() in service.
+2021-12-11 12:17:08,622 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getAllResolvedRequests() in service.
+2021-12-11 12:17:08,636 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getAllResolvedRequests() in service.
+2021-12-11 12:17:10,170 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getSpecificRequests() in service.
+2021-12-11 12:17:10,215 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getSpecificRequests() in service.
+2021-12-11 12:17:12,396 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-11 12:17:12,417 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-11 12:17:14,100 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getAllPendingRequests() in service.
+2021-12-11 12:17:14,104 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getAllPendingRequests() in service.
+2021-12-11 12:17:19,385 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getAllPendingRequests() in service.
+2021-12-11 12:17:19,395 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getAllPendingRequests() in service.
+2021-12-11 12:17:20,735 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getAllPendingRequests() in service.
+2021-12-11 12:17:20,751 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getAllPendingRequests() in service.
+2021-12-11 12:17:41,218 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getAllPendingRequests() in service.
+2021-12-11 12:17:41,230 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getAllPendingRequests() in service.
+2021-12-11 12:17:46,035 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getAllPendingRequests() in service.
+2021-12-11 12:17:46,045 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getAllPendingRequests() in service.
+2021-12-11 12:19:27,810 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-11 12:19:27,820 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-11 12:19:27,849 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getAllPendingRequests() in service.
+2021-12-11 12:19:27,851 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getAllPendingRequests() in service.
+2021-12-11 12:19:43,996 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered submitRequest() in service.
+2021-12-11 12:19:44,020 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited submitRequest() in service.
+2021-12-11 12:19:44,033 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getAllPendingRequests() in service.
+2021-12-11 12:19:44,036 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getAllPendingRequests() in service.
+2021-12-11 12:20:22,432 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Entered getAReimbursement() in service.
+2021-12-11 12:20:22,442 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Exited getAReimbursement() in service.
+2021-12-11 12:20:22,464 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getAllPendingRequests() in service.
+2021-12-11 12:20:22,467 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getAllPendingRequests() in service.
+2021-12-11 12:20:31,234 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered submitRequest() in service.
+2021-12-11 12:20:31,245 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited submitRequest() in service.
+2021-12-11 12:20:31,261 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getAllPendingRequests() in service.
+2021-12-11 12:20:31,264 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getAllPendingRequests() in service.
+2021-12-11 12:20:51,079 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getAllPendingRequests() in service.
+2021-12-11 12:20:51,084 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getAllPendingRequests() in service.
+2021-12-11 12:21:10,670 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered deleteRequest() in service.
+2021-12-11 12:21:10,690 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited deleteRequest() in service.
+2021-12-11 12:21:10,729 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getAllPendingRequests() in service.
+2021-12-11 12:21:10,733 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getAllPendingRequests() in service.
+2021-12-11 12:21:29,513 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-11 12:21:29,523 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-11 12:21:29,548 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-11 12:21:29,551 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-11 12:21:31,865 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-11 12:21:31,876 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-11 12:24:17,436 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Entered getAReimbursement() in service.
+2021-12-11 12:24:17,453 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Exited getAReimbursement() in service.
+2021-12-11 12:24:17,485 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-11 12:24:17,488 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-11 12:30:28,145 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-11 12:30:28,149 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-11 12:30:28,168 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-11 12:30:28,171 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-11 12:31:11,395 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered submitRequest() in service.
+2021-12-11 12:31:11,406 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited submitRequest() in service.
+2021-12-11 12:31:11,423 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-11 12:31:11,430 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-11 12:31:52,779 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-11 12:31:52,791 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-11 12:32:02,879 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered submitRequest() in service.
+2021-12-11 12:32:02,890 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited submitRequest() in service.
+2021-12-11 12:32:02,911 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getPendingRequests() in service.
+2021-12-11 12:32:02,915 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getPendingRequests() in service.
+2021-12-11 12:35:34,777 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-11 12:35:34,793 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0] with root cause
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.project2.mediciERS.service.UserServiceImpl.validateUser(UserServiceImpl.java:49)
+	at com.project2.mediciERS.controller.Controller.validateUser(Controller.java:141)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-12-11 12:35:48,906 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-11 12:35:48,920 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-11 12:35:48,947 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getAllPendingRequests() in service.
+2021-12-11 12:35:48,952 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getAllPendingRequests() in service.
+2021-12-11 12:36:14,923 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getAllPendingRequests() in service.
+2021-12-11 12:36:14,930 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getAllPendingRequests() in service.
+2021-12-11 12:36:20,706 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered deleteRequest() in service.
+2021-12-11 12:36:20,722 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-8080-exec-7] SQL Error: 0, SQLState: 23503
+2021-12-11 12:36:20,728 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-8080-exec-7] ERROR: update or delete on table "reimbursement_details" violates foreign key constraint "file_details_rb_id_fkey" on table "file_details"
+  Detail: Key (rb_id)=(8) is still referenced from table "file_details".
+2021-12-11 12:36:20,730 INFO org.hibernate.engine.jdbc.batch.internal.AbstractBatchImpl [http-nio-8080-exec-7] HHH000010: On release of batch it still contained JDBC statements
+2021-12-11 12:36:20,734 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-7] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [file_details_rb_id_fkey]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement] with root cause
+org.postgresql.util.PSQLException: ERROR: update or delete on table "reimbursement_details" violates foreign key constraint "file_details_rb_id_fkey" on table "file_details"
+  Detail: Key (rb_id)=(8) is still referenced from table "file_details".
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2674)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2364)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:354)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:484)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:404)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:162)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:130)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:197)
+	at org.hibernate.engine.jdbc.batch.internal.NonBatchingBatch.addToBatch(NonBatchingBatch.java:46)
+	at org.hibernate.persister.entity.AbstractEntityPersister.delete(AbstractEntityPersister.java:3698)
+	at org.hibernate.persister.entity.AbstractEntityPersister.delete(AbstractEntityPersister.java:3958)
+	at org.hibernate.action.internal.EntityDeleteAction.execute(EntityDeleteAction.java:123)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604)
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:723)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1416)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:507)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3299)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2434)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101)
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at jdk.proxy3/jdk.proxy3.$Proxy127.deleteById(Unknown Source)
+	at com.project2.mediciERS.service.ReimbursementServiceImpl.deleteRequest(ReimbursementServiceImpl.java:148)
+	at com.project2.mediciERS.controller.Controller.deleteRequest(Controller.java:90)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doDelete(FrameworkServlet.java:931)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-12-11 12:41:00,796 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Entered getAReimbursement() in service.
+2021-12-11 12:41:00,805 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Exited getAReimbursement() in service.
+2021-12-11 12:41:00,823 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-11 12:41:00,829 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-11 12:41:04,497 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-11 12:41:04,503 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-11 12:41:15,961 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered submitRequest() in service.
+2021-12-11 12:41:15,977 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited submitRequest() in service.
+2021-12-11 12:41:15,993 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-11 12:41:15,998 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-11 12:41:32,729 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-11 12:41:32,735 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-11 12:41:32,751 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getAllPendingRequests() in service.
+2021-12-11 12:41:32,755 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getAllPendingRequests() in service.
+2021-12-11 12:41:34,175 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getAllPendingRequests() in service.
+2021-12-11 12:41:34,181 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getAllPendingRequests() in service.
+2021-12-11 12:41:37,644 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered deleteRequest() in service.
+2021-12-11 12:41:37,656 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited deleteRequest() in service.
+2021-12-11 12:41:37,667 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getAllPendingRequests() in service.
+2021-12-11 12:41:37,671 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getAllPendingRequests() in service.
+2021-12-11 12:58:25,990 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-11 12:58:26,000 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-11 12:58:26,030 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-11 12:58:26,037 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-11 12:58:57,849 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-11 12:58:57,859 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-11 12:58:57,881 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-11 12:58:57,886 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-11 12:59:10,110 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered submitRequest() in service.
+2021-12-11 12:59:10,123 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited submitRequest() in service.
+2021-12-11 12:59:10,141 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-11 12:59:10,144 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-11 13:02:19,398 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Entered getAReimbursement() in service.
+2021-12-11 13:02:19,410 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Exited getAReimbursement() in service.
+2021-12-11 13:02:19,429 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-11 13:02:19,434 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-11 13:02:34,261 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Entered getAReimbursement() in service.
+2021-12-11 13:02:34,271 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Exited getAReimbursement() in service.
+2021-12-11 13:02:34,294 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-11 13:02:34,296 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-11 13:04:32,962 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-11 13:04:32,973 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-11 13:04:32,994 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-11 13:04:32,998 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-11 13:04:41,654 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered submitRequest() in service.
+2021-12-11 13:04:41,665 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited submitRequest() in service.
+2021-12-11 13:04:41,678 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-11 13:04:41,682 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-11 13:06:10,004 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Entered getAReimbursement() in service.
+2021-12-11 13:06:10,013 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Exited getAReimbursement() in service.
+2021-12-11 13:06:10,042 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-11 13:06:10,045 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-11 13:06:15,039 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8080-exec-1] Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in com.project2.mediciERS.pojo.ReimbursementPojo com.project2.mediciERS.controller.Controller.submitRequest(com.project2.mediciERS.pojo.ReimbursementPojo) throws com.project2.mediciERS.exception.ApplicationException: [Field error in object 'reimbursementPojo' on field 'rbDate': rejected value [null]; codes [NotNull.reimbursementPojo.rbDate,NotNull.rbDate,NotNull.java.sql.Date,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reimbursementPojo.rbDate,rbDate]; arguments []; default message [rbDate]]; default message [must not be null]] ]
+2021-12-11 13:08:33,849 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-11 13:08:33,864 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-11 13:08:33,891 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-11 13:08:33,896 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-11 13:08:44,380 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered submitRequest() in service.
+2021-12-11 13:08:44,398 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited submitRequest() in service.
+2021-12-11 13:08:44,420 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-11 13:08:44,425 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-11 13:10:23,266 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Entered getAReimbursement() in service.
+2021-12-11 13:10:23,271 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Exited getAReimbursement() in service.
+2021-12-11 13:10:23,289 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getAllPendingRequests() in service.
+2021-12-11 13:10:23,295 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getAllPendingRequests() in service.
+2021-12-11 13:11:03,447 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-11 13:11:03,452 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-11 13:11:03,476 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getAllPendingRequests() in service.
+2021-12-11 13:11:03,484 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getAllPendingRequests() in service.
+2021-12-11 13:11:18,553 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-11 13:11:18,557 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-11 13:11:18,578 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getAllPendingRequests() in service.
+2021-12-11 13:11:18,582 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getAllPendingRequests() in service.
+2021-12-11 13:11:25,262 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Entered getAReimbursement() in service.
+2021-12-11 13:11:25,270 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Exited getAReimbursement() in service.
+2021-12-11 13:11:25,293 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getAllPendingRequests() in service.
+2021-12-11 13:11:25,301 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getAllPendingRequests() in service.
+2021-12-11 13:11:27,904 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getAllPendingRequests() in service.
+2021-12-11 13:11:27,915 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getAllPendingRequests() in service.
+2021-12-11 13:13:46,045 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-4] Entered getAReimbursement() in service.
+2021-12-11 13:13:46,060 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-4] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0] with root cause
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.project2.mediciERS.service.UserServiceImpl.validateUser(UserServiceImpl.java:49)
+	at com.project2.mediciERS.controller.Controller.validateUser(Controller.java:141)
+	at jdk.internal.reflect.GeneratedMethodAccessor103.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-12-11 13:13:49,565 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAReimbursement() in service.
+2021-12-11 13:13:49,573 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAReimbursement() in service.
+2021-12-11 13:13:49,594 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getAllPendingRequests() in service.
+2021-12-11 13:13:49,598 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getAllPendingRequests() in service.
+2021-12-11 13:13:52,218 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getSpecificRequests() in service.
+2021-12-11 13:13:52,225 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getSpecificRequests() in service.
+2021-12-11 13:13:54,282 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getAllPendingRequests() in service.
+2021-12-11 13:13:54,291 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getAllPendingRequests() in service.
+2021-12-11 13:40:01,947 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-11 13:40:01,958 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-12-11 13:40:01,966 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-12-11 22:57:44,516 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-11 22:57:44,528 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MBP.lan with PID 32673 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-11 22:57:44,531 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-11 22:57:44,687 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-11 22:57:44,689 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-11 22:57:46,553 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-11 22:57:46,670 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 103 ms. Found 3 JPA repository interfaces.
+2021-12-11 22:57:47,873 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-11 22:57:47,892 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-11 22:57:47,893 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-11 22:57:47,894 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-11 22:57:48,012 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-11 22:57:48,013 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3321 ms
+2021-12-11 22:57:48,501 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-11 22:57:48,559 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-11 22:57:48,717 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-11 22:57:48,813 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-11 22:57:49,024 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-11 22:57:49,042 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-11 22:57:49,744 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-11 22:57:49,759 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-11 22:57:50,712 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-11 22:57:51,380 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-11 22:57:51,389 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-11 22:57:51,433 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-11 22:57:51,455 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-11 22:57:51,479 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 7.551 seconds (JVM running for 8.678)
+2021-12-11 22:57:56,328 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-11 22:57:56,329 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2021-12-11 22:57:56,334 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 5 ms
+2021-12-11 23:01:17,013 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-11 23:01:17,026 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-12-11 23:01:17,040 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-12-11 23:07:00,760 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MBP.lan with PID 32852 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-11 23:07:00,759 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-11 23:07:00,763 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-11 23:07:00,932 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-11 23:07:00,933 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-11 23:07:02,706 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-11 23:07:02,880 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 163 ms. Found 3 JPA repository interfaces.
+2021-12-11 23:07:04,009 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-11 23:07:04,031 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-11 23:07:04,032 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-11 23:07:04,032 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-11 23:07:04,133 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-11 23:07:04,133 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3199 ms
+2021-12-11 23:07:04,519 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-11 23:07:04,567 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-11 23:07:04,686 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-11 23:07:04,760 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-11 23:07:04,955 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-11 23:07:04,975 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-11 23:07:05,749 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-11 23:07:05,765 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-11 23:07:06,616 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-11 23:07:07,129 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-11 23:07:07,135 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-11 23:07:07,173 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-11 23:07:07,193 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-11 23:07:07,218 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 6.977 seconds (JVM running for 7.934)
+2021-12-11 23:07:19,642 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-11 23:07:19,645 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-11 23:07:19,654 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 8 ms
+2021-12-11 23:09:35,235 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-5] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.util.NoSuchElementException: No value present] with root cause
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at com.project2.mediciERS.service.FileStorageService.getFile(FileStorageService.java:35)
+	at com.project2.mediciERS.controller.FileController.getFile(FileController.java:67)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2021-12-11 23:34:57,147 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-8080-exec-1] SQL Error: 0, SQLState: 23503
+2021-12-11 23:34:57,150 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-8080-exec-1] ERROR: insert or update on table "file_details" violates foreign key constraint "file_details_rb_id_fkey"
+  Detail: Key (rb_id)=(0) is not present in table "reimbursement_details".
+2021-12-11 23:34:57,155 INFO org.hibernate.engine.jdbc.batch.internal.AbstractBatchImpl [http-nio-8080-exec-1] HHH000010: On release of batch it still contained JDBC statements

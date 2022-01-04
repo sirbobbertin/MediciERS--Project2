@@ -1,0 +1,292 @@
+2021-12-17 00:19:52,202 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=55s843ms).
+2021-12-17 01:28:43,270 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=2m50s306ms).
+2021-12-17 01:31:14,542 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=2m1s227ms).
+2021-12-17 01:32:55,140 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=1m10s591ms).
+2021-12-17 01:35:24,381 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=1m27s502ms).
+2021-12-17 01:38:23,800 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=2m59s414ms).
+2021-12-17 01:51:30,254 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=12m6s45ms).
+2021-12-17 03:01:11,791 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=8m40s662ms).
+2021-12-17 03:12:19,054 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=10m37s222ms).
+2021-12-17 04:19:01,986 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=3m11s937ms).
+2021-12-17 04:35:40,092 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=16m8s80ms).
+2021-12-17 05:51:20,391 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-3 housekeeper] HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=16m9s307ms).
+2021-12-17 06:49:10,831 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Entered getAllUsers() in service.
+2021-12-17 06:49:10,932 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-10] Exited getAllItems() in service.
+2021-12-17 06:52:58,922 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Entered getAllUsers() in service.
+2021-12-17 06:52:58,989 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Exited getAllItems() in service.
+2021-12-17 06:53:14,860 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Entered getAllUsers() in service.
+2021-12-17 06:53:14,886 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Exited getAllItems() in service.
+2021-12-17 06:55:14,944 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Entered getAllUsers() in service.
+2021-12-17 06:55:14,995 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-3] Exited getAllItems() in service.
+2021-12-17 06:55:20,628 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAllUsers() in service.
+2021-12-17 06:55:20,653 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAllItems() in service.
+2021-12-17 06:56:19,319 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-17 06:56:19,343 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-3 - Shutdown initiated...
+2021-12-17 06:56:19,352 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-3 - Shutdown completed.
+2021-12-17 06:56:42,235 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-17 06:56:42,238 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MediciErsApplication using Java 16.0.2 on Michelles-MBP.lan with PID 57932 (/Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS/target/classes started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-17 06:56:42,240 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-17 06:56:42,377 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-17 06:56:42,391 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-17 06:56:44,076 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-17 06:56:44,182 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 94 ms. Found 3 JPA repository interfaces.
+2021-12-17 06:56:45,445 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-17 06:56:45,461 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-17 06:56:45,462 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-17 06:56:45,462 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-17 06:56:45,564 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-17 06:56:45,565 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3173 ms
+2021-12-17 06:56:45,947 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-17 06:56:45,991 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-17 06:56:46,119 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-17 06:56:46,206 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-17 06:56:46,527 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-17 06:56:46,543 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-17 06:56:47,423 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-17 06:56:47,455 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-17 06:56:48,439 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-17 06:56:49,266 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-17 06:56:49,277 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-17 06:56:49,322 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-17 06:56:49,362 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-17 06:56:49,397 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MediciErsApplication in 7.652 seconds (JVM running for 9.569)
+2021-12-17 06:57:49,618 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-17 06:57:49,636 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-17 06:57:49,649 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 12 ms
+2021-12-17 06:57:49,735 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Entered getAllUsers() in service.
+2021-12-17 06:57:49,920 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Exited getAllItems() in service.
+2021-12-17 07:03:51,545 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-4] Entered getAReimbursement() in service.
+2021-12-17 07:03:51,627 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-4] Exited getAReimbursement() in service.
+2021-12-17 07:03:51,702 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getAllPendingRequests() in service.
+2021-12-17 07:03:51,733 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getAllPendingRequests() in service.
+2021-12-17 07:14:06,172 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Entered getAReimbursement() in service.
+2021-12-17 07:14:06,194 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Exited getAReimbursement() in service.
+2021-12-17 07:14:06,255 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getAllPendingRequests() in service.
+2021-12-17 07:14:06,268 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getAllPendingRequests() in service.
+2021-12-17 07:14:50,988 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getAllPendingRequests() in service.
+2021-12-17 07:14:51,004 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getAllPendingRequests() in service.
+2021-12-17 07:14:51,055 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getSpecificRequests() in service.
+2021-12-17 07:14:51,150 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getSpecificRequests() in service.
+2021-12-17 07:15:31,155 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getSpecificRequests() in service.
+2021-12-17 07:15:31,176 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getSpecificRequests() in service.
+2021-12-17 07:15:34,698 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getSpecificRequests() in service.
+2021-12-17 07:15:34,710 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getSpecificRequests() in service.
+2021-12-17 07:15:37,445 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getSpecificRequests() in service.
+2021-12-17 07:15:37,452 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getSpecificRequests() in service.
+2021-12-17 07:15:42,829 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getSpecificRequests() in service.
+2021-12-17 07:15:42,836 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getSpecificRequests() in service.
+2021-12-17 07:15:45,501 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getAllResolvedRequests() in service.
+2021-12-17 07:15:45,543 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getAllResolvedRequests() in service.
+2021-12-17 07:15:54,096 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Entered getAllUsers() in service.
+2021-12-17 07:15:54,105 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Exited getAllItems() in service.
+2021-12-17 07:16:23,280 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-17 07:16:23,287 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-17 07:16:23,318 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-17 07:16:23,343 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-17 07:16:30,818 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-17 07:16:30,824 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-17 07:17:11,464 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered submitRequest() in service.
+2021-12-17 07:17:11,544 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited submitRequest() in service.
+2021-12-17 07:17:11,570 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-17 07:17:11,588 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-17 07:17:23,009 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-17 07:17:23,024 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-17 07:17:29,265 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Entered getAReimbursement() in service.
+2021-12-17 07:17:29,271 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-6] Exited getAReimbursement() in service.
+2021-12-17 07:17:29,292 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-17 07:17:29,315 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-17 07:17:31,614 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-17 07:17:31,633 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-17 07:19:02,811 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered deleteRequest() in service.
+2021-12-17 07:19:02,864 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited deleteRequest() in service.
+2021-12-17 07:19:02,900 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-17 07:19:02,904 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-17 07:20:21,604 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.project2.mediciERS.UserServiceTest], using SpringBootContextLoader
+2021-12-17 07:20:21,611 INFO org.springframework.test.context.support.AbstractContextLoader [main] Could not detect default resource locations for test class [com.project2.mediciERS.UserServiceTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2021-12-17 07:20:21,612 INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [com.project2.mediciERS.UserServiceTest]: UserServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2021-12-17 07:20:21,842 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration com.project2.mediciERS.MediciErsApplication for test class com.project2.mediciERS.UserServiceTest
+2021-12-17 07:20:22,008 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-12-17 07:20:22,027 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2555fff0, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@70d2e40b, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@120f38e6, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@7a0e1b5e, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@702ed190, org.springframework.test.context.support.DirtiesContextTestExecutionListener@173b9122, org.springframework.test.context.transaction.TransactionalTestExecutionListener@7c18432b, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@7646731d, org.springframework.test.context.event.EventPublishingTestExecutionListener@70e29e14, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@3b1bb3ab, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@5a4bef8, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@40bffbca, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@2449cff7, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@42a9a63e, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@62da83ed]
+2021-12-17 07:20:22,543 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserServiceTest using Java 16.0.2 on Michelles-MBP.lan with PID 61105 (started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-17 07:20:22,544 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-12-17 07:20:22,585 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-17 07:20:24,408 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-17 07:20:24,524 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 102 ms. Found 3 JPA repository interfaces.
+2021-12-17 07:20:26,340 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-17 07:20:26,392 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-17 07:20:26,433 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-17 07:20:26,570 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-12-17 07:20:26,754 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-12-17 07:20:26,772 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-17 07:20:27,547 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-17 07:20:27,564 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-17 07:20:28,782 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-17 07:20:30,189 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-17 07:20:30,293 INFO org.springframework.boot.StartupInfoLogger [main] Started UserServiceTest in 8.176 seconds (JVM running for 10.47)
+2021-12-17 07:20:30,453 INFO com.project2.mediciERS.service.UserServiceImpl [main] Entered getAllUsers() in service.
+2021-12-17 07:20:30,456 INFO com.project2.mediciERS.service.UserServiceImpl [main] Exited getAllItems() in service.
+2021-12-17 07:20:30,489 INFO com.project2.mediciERS.service.UserServiceImpl [main] Entered deleteUser() in service.
+2021-12-17 07:20:30,490 INFO com.project2.mediciERS.service.UserServiceImpl [main] Exited deleteItem() in service.
+2021-12-17 07:20:30,505 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.project2.mediciERS.MediciErsApplicationTests], using SpringBootContextLoader
+2021-12-17 07:20:30,507 INFO org.springframework.test.context.support.AbstractContextLoader [main] Could not detect default resource locations for test class [com.project2.mediciERS.MediciErsApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2021-12-17 07:20:30,508 INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [com.project2.mediciERS.MediciErsApplicationTests]: MediciErsApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2021-12-17 07:20:30,512 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration com.project2.mediciERS.MediciErsApplication for test class com.project2.mediciERS.MediciErsApplicationTests
+2021-12-17 07:20:30,518 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-12-17 07:20:30,518 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@69c7eafd, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e6ec71f, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@1e387974, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@2a23c061, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7c6557da, org.springframework.test.context.support.DirtiesContextTestExecutionListener@642b2176, org.springframework.test.context.transaction.TransactionalTestExecutionListener@3985175e, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@d91e8c7, org.springframework.test.context.event.EventPublishingTestExecutionListener@5b9ca528, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@66011fbc, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@77afdbc5, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@757ad227, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4b718c45, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@25639668, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@2c1b10f2]
+2021-12-17 07:20:30,603 INFO org.springframework.boot.StartupInfoLogger [main] Starting MediciErsApplicationTests using Java 16.0.2 on Michelles-MBP.lan with PID 61105 (started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-17 07:20:30,603 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-12-17 07:20:31,166 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-17 07:20:31,199 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 31 ms. Found 3 JPA repository interfaces.
+2021-12-17 07:20:31,471 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-17 07:20:31,481 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-2 - Starting...
+2021-12-17 07:20:31,513 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-2 - Start completed.
+2021-12-17 07:20:31,516 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-17 07:20:31,857 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-17 07:20:31,861 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-17 07:20:32,256 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-17 07:20:32,784 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-17 07:20:32,839 INFO org.springframework.boot.StartupInfoLogger [main] Started MediciErsApplicationTests in 2.313 seconds (JVM running for 13.016)
+2021-12-17 07:20:32,866 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.project2.mediciERS.SmokeTest], using SpringBootContextLoader
+2021-12-17 07:20:32,868 INFO org.springframework.test.context.support.AbstractContextLoader [main] Could not detect default resource locations for test class [com.project2.mediciERS.SmokeTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2021-12-17 07:20:32,869 INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [com.project2.mediciERS.SmokeTest]: SmokeTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2021-12-17 07:20:32,874 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration com.project2.mediciERS.MediciErsApplication for test class com.project2.mediciERS.SmokeTest
+2021-12-17 07:20:32,877 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-12-17 07:20:32,878 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5c883b3f, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@a47a011, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@6441da2c, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@61b11d35, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@7c7d83ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@4b0df349, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21f7c0be, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@48463900, org.springframework.test.context.event.EventPublishingTestExecutionListener@5834298c, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@7c070e78, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@63ead376, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@1a1d7832, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@639c5ab4, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@272cec71, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@12e8ea81]
+2021-12-17 07:20:32,944 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.project2.mediciERS.ReimbursementServiceTest], using SpringBootContextLoader
+2021-12-17 07:20:32,946 INFO org.springframework.test.context.support.AbstractContextLoader [main] Could not detect default resource locations for test class [com.project2.mediciERS.ReimbursementServiceTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2021-12-17 07:20:32,947 INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [com.project2.mediciERS.ReimbursementServiceTest]: ReimbursementServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2021-12-17 07:20:32,949 INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration com.project2.mediciERS.MediciErsApplication for test class com.project2.mediciERS.ReimbursementServiceTest
+2021-12-17 07:20:32,950 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-12-17 07:20:32,951 INFO org.springframework.test.context.support.AbstractTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@39bd07fe, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@5ca896af, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@7e474bd, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@324ee3ca, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@639d808a, org.springframework.test.context.support.DirtiesContextTestExecutionListener@7b186fb8, org.springframework.test.context.transaction.TransactionalTestExecutionListener@5f7dbdfa, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@1ae8556c, org.springframework.test.context.event.EventPublishingTestExecutionListener@157e0f6b, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2da3d7d3, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1f832df0, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@47184859, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@22781286, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@11564455, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@173c0722]
+2021-12-17 07:20:33,004 INFO org.springframework.boot.StartupInfoLogger [main] Starting ReimbursementServiceTest using Java 16.0.2 on Michelles-MBP.lan with PID 61105 (started by michelleng in /Users/michelleng/Eclipse/training-project-workspace/mediciERS.zip_expanded/mediciERS)
+2021-12-17 07:20:33,005 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-12-17 07:20:33,349 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-17 07:20:33,369 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 18 ms. Found 3 JPA repository interfaces.
+2021-12-17 07:20:33,625 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-17 07:20:33,634 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-3 - Starting...
+2021-12-17 07:20:33,657 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-3 - Start completed.
+2021-12-17 07:20:33,658 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-17 07:20:33,789 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-17 07:20:33,790 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-17 07:20:34,044 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-17 07:20:34,484 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-17 07:20:34,532 INFO org.springframework.boot.StartupInfoLogger [main] Started ReimbursementServiceTest in 1.578 seconds (JVM running for 14.709)
+2021-12-17 07:20:34,546 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Entered getSpecificRequests() in service.
+2021-12-17 07:20:34,554 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Exited getSpecificRequests() in service.
+2021-12-17 07:20:34,572 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Entered getAllResolvedRequests() in service.
+2021-12-17 07:20:34,573 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Exited getAllResolvedRequests() in service.
+2021-12-17 07:20:34,588 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Entered getPendingRequests() in service.
+2021-12-17 07:20:34,592 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Exited getPendingRequests() in service.
+2021-12-17 07:20:34,603 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Entered getAllPendingRequests() in service.
+2021-12-17 07:20:34,604 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Exited getAllPendingRequests() in service.
+2021-12-17 07:20:34,613 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Entered deleteRequest() in service.
+2021-12-17 07:20:34,614 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Exited deleteRequest() in service.
+2021-12-17 07:20:34,617 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Entered getResolvedRequests() in service.
+2021-12-17 07:20:34,618 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [main] Exited getResolvedRequests() in service.
+2021-12-17 07:20:34,630 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-17 07:20:34,632 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-12-17 07:20:34,635 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2021-12-17 07:20:34,642 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-17 07:20:34,643 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-2 - Shutdown initiated...
+2021-12-17 07:20:34,646 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-2 - Shutdown completed.
+2021-12-17 07:20:34,649 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-12-17 07:20:34,650 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-3 - Shutdown initiated...
+2021-12-17 07:20:34,652 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-3 - Shutdown completed.
+2021-12-17 07:40:47,620 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Entered getAReimbursement() in service.
+2021-12-17 07:40:47,639 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-5] Exited getAReimbursement() in service.
+2021-12-17 07:40:47,661 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-17 07:40:47,672 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-17 07:41:03,371 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getPendingRequests() in service.
+2021-12-17 07:41:03,381 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getPendingRequests() in service.
+2021-12-17 07:41:31,696 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Entered getAReimbursement() in service.
+2021-12-17 07:41:31,711 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-1] Exited getAReimbursement() in service.
+2021-12-17 07:41:31,731 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getAllPendingRequests() in service.
+2021-12-17 07:41:31,736 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getAllPendingRequests() in service.
+2021-12-17 07:41:59,168 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getAllPendingRequests() in service.
+2021-12-17 07:41:59,180 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getAllPendingRequests() in service.
+2021-12-17 07:43:42,641 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered submitRequest() in service.
+2021-12-17 07:43:42,672 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited submitRequest() in service.
+2021-12-17 07:43:42,687 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getAllPendingRequests() in service.
+2021-12-17 07:43:42,693 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getAllPendingRequests() in service.
+2021-12-17 09:13:38,629 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Entered getAReimbursement() in service.
+2021-12-17 09:13:38,663 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-8] Exited getAReimbursement() in service.
+2021-12-17 09:13:38,699 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-17 09:13:38,735 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-17 09:13:41,583 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getPendingRequests() in service.
+2021-12-17 09:13:41,592 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getPendingRequests() in service.
+2021-12-17 09:13:43,125 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getPendingRequests() in service.
+2021-12-17 09:13:43,142 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getPendingRequests() in service.
+2021-12-17 09:13:46,541 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getResolvedRequests() in service.
+2021-12-17 09:13:46,586 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getResolvedRequests() in service.
+2021-12-17 09:13:48,015 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-17 09:13:48,021 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-17 09:13:49,062 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getPendingRequests() in service.
+2021-12-17 09:13:49,073 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getPendingRequests() in service.
+2021-12-17 09:35:01,286 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getResolvedRequests() in service.
+2021-12-17 09:35:01,323 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getResolvedRequests() in service.
+2021-12-17 09:35:02,499 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-17 09:35:02,515 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-17 09:35:04,125 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getPendingRequests() in service.
+2021-12-17 09:35:04,141 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getPendingRequests() in service.
+2021-12-17 09:35:06,978 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getResolvedRequests() in service.
+2021-12-17 09:35:06,984 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getResolvedRequests() in service.
+2021-12-17 09:35:07,992 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getPendingRequests() in service.
+2021-12-17 09:35:07,998 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getPendingRequests() in service.
+2021-12-17 09:35:09,296 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getPendingRequests() in service.
+2021-12-17 09:35:09,319 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getPendingRequests() in service.
+2021-12-17 09:35:11,948 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getPendingRequests() in service.
+2021-12-17 09:35:11,951 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getPendingRequests() in service.
+2021-12-17 09:35:12,774 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getResolvedRequests() in service.
+2021-12-17 09:35:12,792 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getResolvedRequests() in service.
+2021-12-17 09:35:14,565 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getResolvedRequests() in service.
+2021-12-17 09:35:14,575 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getResolvedRequests() in service.
+2021-12-17 09:35:15,285 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-17 09:35:15,300 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-17 09:35:16,591 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Entered getPendingRequests() in service.
+2021-12-17 09:35:16,607 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-2] Exited getPendingRequests() in service.
+2021-12-17 09:38:02,948 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getPendingRequests() in service.
+2021-12-17 09:38:02,952 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getPendingRequests() in service.
+2021-12-17 09:38:04,183 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Entered getResolvedRequests() in service.
+2021-12-17 09:38:04,195 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-6] Exited getResolvedRequests() in service.
+2021-12-17 09:38:07,428 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Entered getPendingRequests() in service.
+2021-12-17 09:38:07,435 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-10] Exited getPendingRequests() in service.
+2021-12-17 09:38:14,052 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Entered getAReimbursement() in service.
+2021-12-17 09:38:14,059 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-2] Exited getAReimbursement() in service.
+2021-12-17 09:38:14,073 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Entered getAllPendingRequests() in service.
+2021-12-17 09:38:14,079 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-9] Exited getAllPendingRequests() in service.
+2021-12-17 09:38:15,837 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getAllPendingRequests() in service.
+2021-12-17 09:38:15,842 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getSpecificRequests() in service.
+2021-12-17 09:38:15,844 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getSpecificRequests() in service.
+2021-12-17 09:38:15,850 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getAllPendingRequests() in service.
+2021-12-17 09:40:11,469 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getAllPendingRequests() in service.
+2021-12-17 09:40:11,489 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getAllPendingRequests() in service.
+2021-12-17 09:40:13,482 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getAllPendingRequests() in service.
+2021-12-17 09:40:13,483 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getSpecificRequests() in service.
+2021-12-17 09:40:13,495 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getSpecificRequests() in service.
+2021-12-17 09:40:13,496 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getAllPendingRequests() in service.
+2021-12-17 09:40:14,218 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getSpecificRequests() in service.
+2021-12-17 09:40:14,227 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getSpecificRequests() in service.
+2021-12-17 09:40:15,018 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getAllResolvedRequests() in service.
+2021-12-17 09:40:15,035 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getAllResolvedRequests() in service.
+2021-12-17 09:40:15,869 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-4] Entered getAllUsers() in service.
+2021-12-17 09:40:15,888 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-4] Exited getAllItems() in service.
+2021-12-17 09:40:20,167 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Entered getAllPendingRequests() in service.
+2021-12-17 09:40:20,179 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-7] Exited getAllPendingRequests() in service.
+2021-12-17 09:40:36,502 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Entered getSpecificRequests() in service.
+2021-12-17 09:40:36,502 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Entered getAllPendingRequests() in service.
+2021-12-17 09:40:36,511 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-8] Exited getSpecificRequests() in service.
+2021-12-17 09:40:36,511 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-1] Exited getAllPendingRequests() in service.
+2021-12-17 09:40:38,067 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getSpecificRequests() in service.
+2021-12-17 09:40:38,075 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getSpecificRequests() in service.
+2021-12-17 09:40:38,831 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getAllResolvedRequests() in service.
+2021-12-17 09:40:38,836 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getAllResolvedRequests() in service.
+2021-12-17 09:40:39,503 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Entered getAllUsers() in service.
+2021-12-17 09:40:39,524 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-7] Exited getAllItems() in service.
+2021-12-17 10:07:03,981 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Entered getAReimbursement() in service.
+2021-12-17 10:07:04,015 INFO com.project2.mediciERS.service.UserServiceImpl [http-nio-8080-exec-9] Exited getAReimbursement() in service.
+2021-12-17 10:07:04,036 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Entered getAllPendingRequests() in service.
+2021-12-17 10:07:04,042 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-5] Exited getAllPendingRequests() in service.
+2021-12-17 10:07:08,296 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Entered getAllPendingRequests() in service.
+2021-12-17 10:07:08,309 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Entered getSpecificRequests() in service.
+2021-12-17 10:07:08,315 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-3] Exited getAllPendingRequests() in service.
+2021-12-17 10:07:08,318 INFO com.project2.mediciERS.service.ReimbursementServiceImpl [http-nio-8080-exec-4] Exited getSpecificRequests() in service.
